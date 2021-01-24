@@ -1,0 +1,26 @@
+header{
+	background-color: #cfe4cf;
+}
+
+h1{
+	color: #073b4a;
+	text-align: center;
+	font-variant: small-caps;
+}
+
+a{
+	color: #1b2e94;
+}
+
+h2{
+	color: #323a65;
+	font-variant: small-caps;
+
+}
+aside{
+	display: none;
+}
+
+section{
+	background-color: #c5e4c5;
+}
